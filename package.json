@@ -26,5 +26,8 @@
   "bugs": {
     "url": "https://github.com/rolling-scopes-school/core-js-arrays/issues"
   },
-  "homepage": "https://github.com/rolling-scopes-school/core-js-arrays#readme"
+  "homepage": "https://github.com/rolling-scopes-school/core-js-arrays#readme",
+  "dependencies": {
+    "core-js-arrays": "file:"
+  }
 }
